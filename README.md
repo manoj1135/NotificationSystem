@@ -6,8 +6,8 @@ Server is REST API
 
 Use post method to push the data ex
 {
-   "from": "manoj.naik1135@gmail.com",
-    "to": "deepti.jahagirdar@gmail.com",
+   "from": "xyz@domain.com",
+    "to": "abc@domain1.com",
   	"subject": "Hello",
     "message": "Hello"
 }
